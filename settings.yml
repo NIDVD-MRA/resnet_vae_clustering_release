@@ -1,0 +1,101 @@
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/6840_005_rand_cutout_2022_4_29_test1/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/hbsag_multi4_minibatch_test_2022_5_20_test1/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/emd_5001_msa_2022_6_9_test2/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/emd_5001_2022_7_11_test1/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/emd_6840_without_msa_2022_6_8_test1/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/Apoferritin_hbsag_2022_7_16_test2/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/Apoferritin_2022_8_10/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/tmi_v3/emd_6840_01_015_without_rotate_normal_piexlmask/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/tmi_v3/emd_6840/emd_6840_005_01_v4/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/tmi_v3/emd_5001/emd_5001_005_01_v6/
+path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/tmi_v3/emd_5001/emd_5001_01_without_shift_ctf_4/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/tmi_v3/class_resize/emd_5001/emd_5001_005_01/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/tmi_v3/emd_6840/emd_6840_005_01_v4/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/tmi_v3/emd_11669/emd_11669_01_015/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/emd_5001_2022_7_16_test1/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/hbsag_vae_2022_6_23_test1/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/galactosidase_rand_cutout_2022_4_29_test1/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/Apoferritin_rand_cutout_2022_4_30_test1/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/galactosidase_2022_5_5_test1/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/hbsag_2022_5_9_test1/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/virus_2022_5_11_test1/
+#path_result_dir: /home/yanyang/data/projects_resluts/vae_k_means/Apoferritin_plus2/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/from_scipion/emd_6840/snr_0.05/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/with_translation/j182_6840_100/sub_mrcs/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/from_scipion/emd_5001/snr_0.05/
+#path_data: /home/yanyang/data/em_dataset/real_particles/hbsag_66000/multi4/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/from_scipion/emd_5001/snr_0.05/
+#path_data: /home/yanyang/data/em_dataset/real_particles/galactosidase/from_my_relion_project_v3/job016/Movies/
+#path_data: /home/yanyang/data/em_dataset/real_particles/Apoferritin240/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/with_translation/2022_8_5_dataset/norm/emd_6840/j175_6840_005_01/sub_mrcs/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/with_translation/2022_8_5_dataset/norm/tmi_ctf_10000/emd_5001/j176_5001_005_01/sub_mrcs/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/with_translation/2022_8_5_dataset/norm/tmi_ctf_10000/emd_6840/j175_6840_005_01/sub_mrcs/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/with_translation/2022_8_5_dataset/norm/tmi_ctf_10000/emd_11669/j180_11669_005_01/sub_mrcs/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/with_translation/2022_8_5_dataset/norm/tmi_ctf_10000/emd_6840/j175_6840_005_01/sub_mrcs/
+path_data: /home/yanyang/data/em_dataset/simulated_particles/with_translation/2022_new_dataset_translate_0/emd_5001/without_shift_ctf/j176_5001_01_01/sub_mrcs/
+
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/with_translation/2022_8_5_dataset/norm/emd_11669/j180_11669_005_01/sub_mrcs/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/with_translation/2022_8_5_dataset/norm/resize/emd_5001/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/with_translation/2022_8_5_dataset/norm/emd_11669/j180_11669_01_005/sub_mrcs/
+#path_data: /home/yanyang/data/em_dataset/simulated_particles/with_translation/2022_8_5_dataset/norm/emd_6840/j175_6840_005_005/sub_mrcs/
+#path_data: /home/yanyang/data/em_dataset/real_particles/Apoferritin240_plus2/
+#path_data: /home/yanyang/data/em_dataset/real_particles/P16_W27_particle/
+#path_data: /home/yanyang/data/em_dataset/real_particles//hbsag_66000/HBsAg_Particles_Part1_mrcs/
+#path_data: /home/yanyang/data/em_dataset/real_particles/2021_particles_to_yanyang/
+
+#old_model_path: /home/yanyang/data/projects_resluts/vae_k_means/6840_005_rand_cutout_2022_4_29_test1/
+#old_proj_path: /home/yanyang/data/projects_resluts/vae_k_means/emd_5001_vade_2022_6_21_test1/
+old_proj_path: /home/yanyang/data/projects_resluts/vae_k_means/hbsag_vae_2022_6_21_test2/
+#old_path_data: /home/yanyang/data/em_dataset/simulated_particles/from_scipion/emd_6840/snr_0.05/
+#old_path_data: /home/yanyang/data/em_dataset/simulated_particles/from_scipion/emd_6840/snr_0.05/
+#old_model_path: /home/yanyang/data/projects_resluts/vae_k_means/emd_5001_msa_2022_6_7_test4/
+#old_proj_path: /home/yanyang/data/projects_resluts/vae_k_means/emd_6840_without_msa_2022_6_8_test1/
+#old_path_data: /home/yanyang/data/em_dataset/simulated_particles/from_scipion/emd_5001/snr_0.05/
+#old_path_data: /home/yanyang/data/em_dataset/simulated_particles/from_scipion/emd_6840/snr_0.05/
+#old_path_data: /home/yanyang/data/em_dataset/simulated_particles/from_scipion/emd_6840/snr_0.05/
+
+epoches_round1: 100
+epoches_round2: 5
+batch_size: 40
+cluster_num: 10
+is_simulated_dataset: 1
+start_from_old_model: 0
+using_mas: 0
+kmeans_mode: 1
+
+
+# Transformations
+augmentation_strategy: cryoEM_v1
+
+augmentation_kwargs:
+   phase 1:
+      is_random_rotate: 1
+   #   random_resized_crop:
+   #      size: 128
+   #      scale: [0.9, 1.0]
+   #      ratio: [0.95,1.05]
+      is_Normalize: 1
+#      cutout_kwargs:
+#         p: 0.4
+#         value: [-3,3]
+#      random_pixel_lost:
+#         p: 0.5
+#         ratio: 0.5
+   phase 2:
+      is_random_rotate: 1
+#      random_resized_crop:
+#         size: 128
+#         scale: [0.9, 1.0]
+#         ratio: [0.95,1.05]
+      is_Normalize: 1
+   #   cutout_kwargs:
+   #      p: 0.4
+   #      value: [-3,3]
+#      random_pixel_lost:
+#         p: 0.6
+#         ratio: 0.5
+
+# Preprocess
+preprocess_kwargs:
+#   crop_ratio: 1
+   resize: 128

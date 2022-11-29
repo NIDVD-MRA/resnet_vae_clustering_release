@@ -8,6 +8,6 @@ The figure below shows the prediction model's architecture,
 
 **Usage**
 
-(1) Eidit '[path_result_dir]' and *path_data* in *settings.yml*. *path_result_dir* is the directory that will save the clustering result including clustering labels and average images. *path_data* is the directory that you save the *.mrc(s) files to be clustered.
+(1) Eidit 'path_result_dir' and 'path_data' in 'settings.yml'. 'path_result_dir' is the directory that will save the clustering result including clustering labels and average images. 'path_data' is the directory that you save the .mrc(s) files to be clustered.
 
-(2) Run *DRVAE_BSKMeans.py*
+(2) Run 'DRVAE_BSKMeans.py'
